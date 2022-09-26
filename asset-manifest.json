@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AatuThu.github.io/static/css/main.b4c93528.css",
-    "main.js": "/AatuThu.github.io/static/js/main.ab677797.js",
-    "static/js/787.7d6dab3c.chunk.js": "/AatuThu.github.io/static/js/787.7d6dab3c.chunk.js",
-    "static/media/prof.jpg": "/AatuThu.github.io/static/media/prof.060c248562f56581d86e.jpg",
-    "index.html": "/AatuThu.github.io/index.html",
-    "main.b4c93528.css.map": "/AatuThu.github.io/static/css/main.b4c93528.css.map",
-    "main.ab677797.js.map": "/AatuThu.github.io/static/js/main.ab677797.js.map",
-    "787.7d6dab3c.chunk.js.map": "/AatuThu.github.io/static/js/787.7d6dab3c.chunk.js.map"
+    "main.css": "/static/css/main.b4c93528.css",
+    "main.js": "/static/js/main.ab9a6b77.js",
+    "static/js/787.7d6dab3c.chunk.js": "/static/js/787.7d6dab3c.chunk.js",
+    "static/media/prof.jpg": "/static/media/prof.060c248562f56581d86e.jpg",
+    "index.html": "/index.html",
+    "main.b4c93528.css.map": "/static/css/main.b4c93528.css.map",
+    "main.ab9a6b77.js.map": "/static/js/main.ab9a6b77.js.map",
+    "787.7d6dab3c.chunk.js.map": "/static/js/787.7d6dab3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4c93528.css",
-    "static/js/main.ab677797.js"
+    "static/js/main.ab9a6b77.js"
   ]
 }
