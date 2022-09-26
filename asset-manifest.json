@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AatuTHu.github.io/static/css/main.b4c93528.css",
+    "main.js": "/AatuTHu.github.io/static/js/main.eb2164d7.js",
+    "static/js/787.7d6dab3c.chunk.js": "/AatuTHu.github.io/static/js/787.7d6dab3c.chunk.js",
+    "static/media/prof.jpg": "/AatuTHu.github.io/static/media/prof.060c248562f56581d86e.jpg",
+    "index.html": "/AatuTHu.github.io/index.html",
+    "main.b4c93528.css.map": "/AatuTHu.github.io/static/css/main.b4c93528.css.map",
+    "main.eb2164d7.js.map": "/AatuTHu.github.io/static/js/main.eb2164d7.js.map",
+    "787.7d6dab3c.chunk.js.map": "/AatuTHu.github.io/static/js/787.7d6dab3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c93528.css",
+    "static/js/main.eb2164d7.js"
+  ]
+}
